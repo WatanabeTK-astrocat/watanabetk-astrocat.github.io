@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Taichi K. Watanabe"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/Him"
+  bio              : "Simulations of dust coagulation and fragmentation in protoplanetary disks / 原始惑星系円盤におけるダストの合体成長・衝突破壊のシミュレーション"
   location         : "Tokyo, Japan"
-  employer         : "The Graduate University for Advanced Studies, SOKENDAI / National Observatiory of Japan"
+  employer         : "The Graduate University for<br>Advanced Studies, SOKENDAI /<br>総研大天文,<br>National Observatiory of Japan/<br>国立天文台"
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "taichi.astrocat@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
