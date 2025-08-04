@@ -16,7 +16,7 @@ Under construction...
 Education
 ======
 
-* High School Diploma, Cosmo-Science Course, Aichi Prefectural Zuiryo High School (愛知県立瑞陵高等学校コスモサイエンスコース (現 理数科)), Apr. 2018 - Mar. 2020 
+* High School Diploma, Cosmo-Science Course, Aichi Prefectural Zuiryo High School (愛知県立瑞陵高等学校コスモサイエンスコース (現 理数科)), Apr. 2017 - Mar. 2020
 * B.Sc., Dep. of Earth and Planetary Science, The University of Tokyo (東京大学理学部地球惑星物理学科), Apr. 2020 - Mar. 2025
   * Supervisor: [Shota Notsu (野津 翔太)](https://sites.google.com/view/shotanotsu/)
 
@@ -27,12 +27,14 @@ Research Positions / Employment
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
