@@ -21,7 +21,7 @@ Education / 教育
   * Apr. 2020 - Mar. 2025
   * [Dep. of Earth and Planetary Science, The University of Tokyo](https://www.eps.s.u-tokyo.ac.jp/en/) / [東京大学 理学部 地球惑星物理学科](https://www.eps.s.u-tokyo.ac.jp/)
   * Supervisor / 指導教員: [Shota Notsu / 野津 翔太](https://sites.google.com/view/shotanotsu/)
-* PhD (Candidate) / 大学院博士課程
+* PhD Student / 大学院博士課程
   * Apr. 2025 - present
   * [5-year Astronomical Science Program, The Graduate University for Advanced Studies, SOKENDAI](https://guas-astronomy.jp/eng/index.html) / 総合研究大学院大学 先端学術院 天文科学コース 5年一貫制
 
