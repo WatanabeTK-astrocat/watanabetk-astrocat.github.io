@@ -10,8 +10,13 @@ var addressPoints = [
     138.1440455
   ],
   [
+    "An O(d N^d log N) Tree Algorithm for the Multi-Component Coagulation Equation<br />East Asia Numerical Astrophysics Meetings 10 (EANAM10); Sinbuk-ro, Jocheon-eup, Jeju-si, Jeju-do, South Korea",
+    33.5435749,
+    126.6608036
+  ],
+  [
     "\u30c4\u30ea\u30fc\u6cd5\u3092\u5fdc\u7528\u3057\u305f\u591a\u6210\u5206\u30c0\u30b9\u30c8\u306e\u5408\u4f53\u6210\u9577\u8a08\u7b97\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0<br />\u65e5\u672c\u60d1\u661f\u79d1\u5b66\u4f1a2025\u5e74\u79cb\u5b63\u8b1b\u6f14\u4f1a; \u6771\u4eac\u90fd \u6771\u4eac\u5927\u5b66 \u99d2\u5834I\u30ad\u30e3\u30f3\u30d1\u30b9",
     35.6607405,
-    139.684976
+    139.6849752
   ]
 ];
